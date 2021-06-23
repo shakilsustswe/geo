@@ -1,12 +1,5 @@
 # geo
-our practicing
+our practicing repository.
 hello!!! guys .....................how are you???
 Are you excited to use github?
-
-
-Are you agree?
-
-
-
-
-i am shakil.
+fahim and shakil's collaboration project .........
